@@ -20,11 +20,11 @@ author: COMMANDERVIDEO
 ###############################################
 
 navbar-links:
-  About Me: "aboutme.md"
+   #   About Me: "aboutme.md"
    #   Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://cmd3rv1d30.github.io"
+   #   Author's home: "https://cmd3rv1d30.github.io"
 
 ################
 # --- Logo --- #
