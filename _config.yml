@@ -22,8 +22,8 @@ author: COMMANDERVIDEO
 navbar-links:
   About Me: "I AM A MAN"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+   # - Beautiful Jekyll: "https://beautifuljekyll.com"
+   # - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://cmd3rv1d30.github.io"
 
 ################
